@@ -8,6 +8,6 @@
     align-items: flex-start;
 }
 .item{width: 100px; height: 100px; order: -1; flex:24px}
-.red{background: #ff0000;flex:48px}
+.red{background: #ff0000;flex:48px; margin-left: 20px;}
 .green{background: green;flex:24px}
 .yellow{background: yellow;flex:100px}
