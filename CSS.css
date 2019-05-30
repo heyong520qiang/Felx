@@ -5,7 +5,7 @@
     justify-content:flex-end;
 }
 .item{width: 100px; height: 100px;background: #474747; margin-left: 2px;
-flex-direction,flex-flow,justify-content,align-items,align-content,
+/* flex-direction,flex-flow,justify-content,align-items,align-content, */
 }
 .red{background: #ff0000;flex:48px; margin-left: 20px;}
 .green{background: green;flex:24px}
