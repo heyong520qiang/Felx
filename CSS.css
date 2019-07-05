@@ -39,3 +39,12 @@
             order: 3;
   }
   .div01{display: -webkit-box;display: -ms-flexbox;display: flex;}
+  .box{width: 100%; display: flex; justify-content: space-around; flex-flow: row wrap;}
+  .box01{  max-width: 472px; min-width: 160px; display: flex; background: #949494; flex-flow:column nowrap; margin: 10px auto; }
+  .box01 div{text-align: center; line-height: 30px;}
+  .title{width: 80%;align-self:center;}
+  .content{display: flex;flex-flow: column nowrap;}
+  .btn{display: flex;justify-content: space-around; }
+  .btn a{display: inline-block; width: 45%;}
+  .fromA input{flex-grow: 1;}
+  .lineshow{text-overflow: ellipsis; overflow: hidden;}
